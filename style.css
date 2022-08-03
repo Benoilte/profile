@@ -1,0 +1,93 @@
+body  {
+  background-color: rgba(242, 232, 201, .5);
+}
+
+h1 {
+  font-size: 35px;
+  font-family: 'Signika', sans-serif;
+  color: #A6654E;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: 'Philosopher', sans-serif;
+  color: #A6654E;
+}
+
+p {
+  color:#A6654E;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+
+ul li {
+  display: inline-block;
+}
+
+.container {
+  text-align: center;
+}
+
+.card {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+  width: 80%;
+  padding: 10px 30px 40px 30px;
+  margin: 30px auto;
+  background-color: #AEBFBC;
+}
+
+#card_social_link {
+  padding: 10px 30px;
+}
+
+.btn-grey {
+  background-color: #594C45;
+  color: #A6654E;
+  padding: 10px 20px;
+  border-radius: 4px;
+  transition: 1s;
+}
+
+.btn-grey:hover {
+  background-color: rgba(242, 232, 201, .3);
+  transition: 1s;
+}
+
+.list-inline {
+  padding: 25px 40px;
+}
+
+.social-network{
+  font-size: 30px;
+  color: #594C45;
+  transition: 1s;
+  margin: 0 10px;
+}
+
+.social-network:hover {
+  color: rgba(242, 232, 201, .3);
+  transition: 1s;
+}
+
+.font-Laila {
+  font-family: 'Laila', sans-serif;
+}
+
+#profil-image {
+  height: 150px;
+  width: 150pX;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+/* font-family: 'Laila', sans-serif;
+font-family: 'Philosopher', sans-serif;
+font-family: 'Signika', sans-serif; */
